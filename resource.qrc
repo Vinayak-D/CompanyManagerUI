@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/themes">
+        <file>themes/Diffnes.qss</file>
+        <file>themes/appicon.ico</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
